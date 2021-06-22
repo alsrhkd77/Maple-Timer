@@ -3,18 +3,19 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "0f15cb61677ff1b16571b83bd4ec2a81",
+  "assets/AssetManifest.json": "08422c94f04e012ab9643ea2cd3619ed",
+"assets/assets/audio/game_levelup.wav": "f4cf7ea885f9f322d16375a8e0d52f33",
 "assets/assets/images/mushroom.gif": "a0d543c87d3174faac5fb0f80bc75436",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "d4054be525a38373960292f95f316c02",
+"assets/NOTICES": "866f087fc27d8fcb9cd5ca1c41687736",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "325d3345d8b845fa40c5715424d01501",
-"/": "325d3345d8b845fa40c5715424d01501",
-"main.dart.js": "7bc62c8c8aa42e6de89db304cf3d8a63",
+"index.html": "4392f98f0aa4ecbae3a8fafe35fcc6ce",
+"/": "4392f98f0aa4ecbae3a8fafe35fcc6ce",
+"main.dart.js": "e66569e1ce2055939624f447e1103a7c",
 "manifest.json": "76443896589cae7ba64912acd3158408",
 "version.json": "5b94c87e6a17acce44a98f3e867b4934"
 };
